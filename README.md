@@ -1,4 +1,6 @@
-<p>These are scripts I made for Arma 3, largely with the help of <a href="https://www.youtube.com/@Aliasalpha" target="_blank">Aliasalpha</a>, for use in <a href="https://units.arma3.com/unit/anzif" target="_blank">ANZIF</a>. Each file contains its own instructions. Current offerings:</p>
+<p>These are scripts I made for Arma 3, largely with the help of <a href="https://www.youtube.com/@Aliasalpha" target="_blank">Aliasalpha</a>, for use in <a href="https://units.arma3.com/unit/anzif" target="_blank">ANZIF</a>. Each file contains its own instructions. All are WIPs, and none have been tested outside of our home servers.</p>
+
+<p>Current offerings:</p>
 <ul>
   <li>civKilled.sqf, which tracks civilian deaths, and allows you to run code on players who killed them. Example code names and shames them.</li>
   <li>countdown.sqf, which displayers a countdown timer in minutes and seconds using the hint system.</li>
