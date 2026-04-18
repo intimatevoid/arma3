@@ -6,3 +6,4 @@
   <li>missionTitles.sqf, a variation on Alias' mission titles script, that prints your time, date, location, and then the mission title and subtitle.</li>
   <li>rearm.sqf, which allows you to add a scroll wheel option to a crate, from which players can immediately rearm a loadout automatically based on their role.</li>
 </ul>
+<p>Visit <a href="http://palindrome.au">my website</a> for Arma videos, and more importantly, for pictures of my cats.</p>
