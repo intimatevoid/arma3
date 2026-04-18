@@ -2,7 +2,7 @@
 
 <p>Current offerings:</p>
 <ul>
-  <li>civKilled.sqf, which tracks civilian deaths, and allows you to run code on players who killed them. Example code names and shames them.</li>
+  <li>civKilled.sqf, which tracks civilian deaths, and allows you to run code on players who killed them. The example code names and shames them.</li>
   <li>countdown.sqf, which displayers a countdown timer in minutes and seconds using the hint system.</li>
   <li>gearRandomiser.sqf, which allows you to randomise aspects of player equipment at mission start.</li>
   <li>missionTitles.sqf, a variation on Alias' mission titles script, that prints your time, date, location, and then the mission title and subtitle.</li>
